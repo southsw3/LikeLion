@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\storyLine\bin\Debug\storyLine.exe.config
+D:\Like Lion\LikeLion\storyLine\bin\Debug\storyLine.exe
+D:\Like Lion\LikeLion\storyLine\bin\Debug\storyLine.pdb
+D:\Like Lion\LikeLion\storyLine\obj\Debug\storyLine.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\storyLine\obj\Debug\storyLine.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\storyLine\obj\Debug\storyLine.exe
+D:\Like Lion\LikeLion\storyLine\obj\Debug\storyLine.pdb
