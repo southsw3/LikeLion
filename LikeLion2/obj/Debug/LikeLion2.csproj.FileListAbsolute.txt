@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\LikeLion2\bin\Debug\LikeLion2.exe.config
+D:\Like Lion\LikeLion\LikeLion2\bin\Debug\LikeLion2.exe
+D:\Like Lion\LikeLion\LikeLion2\bin\Debug\LikeLion2.pdb
+D:\Like Lion\LikeLion\LikeLion2\obj\Debug\LikeLion2.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\LikeLion2\obj\Debug\LikeLion2.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\LikeLion2\obj\Debug\LikeLion2.exe
+D:\Like Lion\LikeLion\LikeLion2\obj\Debug\LikeLion2.pdb
