@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Like Lion\\LikeLion\\study6\\",
+  "WorkspaceRootPath": "D:\\Like Lion\\LikeLion\\solo study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B10059F-C0D0-4533-B7F5-DF3688A883D5}|study6.csproj|d:\\like lion\\likelion\\study6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B10059F-C0D0-4533-B7F5-DF3688A883D5}|study6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD0F1B1-3C84-4EBE-BDE2-88C4C2A3F7AB}|solo study.csproj|d:\\like lion\\likelion\\solo study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD0F1B1-3C84-4EBE-BDE2-88C4C2A3F7AB}|solo study.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Like Lion\\LikeLion\\study6\\Program.cs",
+              "DocumentMoniker": "D:\\Like Lion\\LikeLion\\solo study\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Like Lion\\LikeLion\\study6\\Program.cs*",
+              "ToolTip": "D:\\Like Lion\\LikeLion\\solo study\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAJABAAAAAAAAAAAswKYBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwIIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:56:17.183Z",
+              "WhenOpened": "2025-02-21T17:54:12.235Z",
               "EditorCaption": ""
             },
             {

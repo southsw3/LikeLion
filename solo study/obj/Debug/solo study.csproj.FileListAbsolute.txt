@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\solo study\bin\Debug\solo study.exe.config
+D:\Like Lion\LikeLion\solo study\bin\Debug\solo study.exe
+D:\Like Lion\LikeLion\solo study\bin\Debug\solo study.pdb
+D:\Like Lion\LikeLion\solo study\obj\Debug\solo study.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\solo study\obj\Debug\solo study.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\solo study\obj\Debug\solo study.exe
+D:\Like Lion\LikeLion\solo study\obj\Debug\solo study.pdb
