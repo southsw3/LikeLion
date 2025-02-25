@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\콘솔좌표\bin\Debug\콘솔좌표.exe.config
+D:\Like Lion\LikeLion\콘솔좌표\bin\Debug\콘솔좌표.exe
+D:\Like Lion\LikeLion\콘솔좌표\bin\Debug\콘솔좌표.pdb
+D:\Like Lion\LikeLion\콘솔좌표\obj\Debug\콘솔좌표.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\콘솔좌표\obj\Debug\콘솔좌표.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\콘솔좌표\obj\Debug\콘솔좌표.exe
+D:\Like Lion\LikeLion\콘솔좌표\obj\Debug\콘솔좌표.pdb

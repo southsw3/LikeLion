@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\project 대장장이\bin\Debug\project 대장장이.exe.config
+D:\Like Lion\LikeLion\project 대장장이\bin\Debug\project 대장장이.exe
+D:\Like Lion\LikeLion\project 대장장이\bin\Debug\project 대장장이.pdb
+D:\Like Lion\LikeLion\project 대장장이\obj\Debug\project 대장장이.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\project 대장장이\obj\Debug\project 대장장이.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\project 대장장이\obj\Debug\project 대장장이.exe
+D:\Like Lion\LikeLion\project 대장장이\obj\Debug\project 대장장이.pdb

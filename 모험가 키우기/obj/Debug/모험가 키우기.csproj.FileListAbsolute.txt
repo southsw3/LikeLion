@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\모험가 키우기\bin\Debug\모험가 키우기.exe.config
+D:\Like Lion\LikeLion\모험가 키우기\bin\Debug\모험가 키우기.exe
+D:\Like Lion\LikeLion\모험가 키우기\bin\Debug\모험가 키우기.pdb
+D:\Like Lion\LikeLion\모험가 키우기\obj\Debug\모험가 키우기.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\모험가 키우기\obj\Debug\모험가 키우기.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\모험가 키우기\obj\Debug\모험가 키우기.exe
+D:\Like Lion\LikeLion\모험가 키우기\obj\Debug\모험가 키우기.pdb
