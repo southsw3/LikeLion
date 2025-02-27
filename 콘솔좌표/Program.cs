@@ -32,7 +32,7 @@ namespace 콘솔좌표
                 int monsterAttack = rand.Next(5, 11); // 기본 공격력 (5~10)
 
                 // 20% 확률로 추가 데미지 (5~10)
-                if (rand.Next(0, 5) == 0)  // 0~4 중 0일 때 추가 공격 (20% 확률)
+                if (rand.Next(0, 10) < 3)  // 0~4 중 0일 때 추가 공격 (30% 확률)
                 {
                     Thread.Sleep(800);
                     int extraDamage = rand.Next(5, 11);
@@ -40,7 +40,7 @@ namespace 콘솔좌표
                     Console.WriteLine($"🔥 플레이어가 추가 공격! +{extraDamage} 데미지!");
                 }
 
-                if (rand.Next(0, 10) < 3)  // 40% 확률로 몬스터도 추가 데미지
+                if (rand.Next(0, 10) < 3)  // 30% 확률로 몬스터도 추가 데미지
                 {
                     Thread.Sleep(800);
                     int extraDamage = rand.Next(5, 11);

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Like Lion\\LikeLion\\Bingo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BF30DC-172F-49CB-ACD6-E9D918122EE0}|Bingo.csproj|d:\\like lion\\likelion\\bingo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BF30DC-172F-49CB-ACD6-E9D918122EE0}|Bingo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Like Lion\\LikeLion\\Bingo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Like Lion\\LikeLion\\Bingo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAD4vx0BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:24:45.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\shooting game2\bin\Debug\shooting game2.exe.config
+D:\Like Lion\LikeLion\shooting game2\bin\Debug\shooting game2.exe
+D:\Like Lion\LikeLion\shooting game2\bin\Debug\shooting game2.pdb
+D:\Like Lion\LikeLion\shooting game2\obj\Debug\shooting game2.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\shooting game2\obj\Debug\shooting game2.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\shooting game2\obj\Debug\shooting game2.exe
+D:\Like Lion\LikeLion\shooting game2\obj\Debug\shooting game2.pdb

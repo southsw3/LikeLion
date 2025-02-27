@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\inventory shooting game\bin\Debug\inventory shooting game.exe.config
+D:\Like Lion\LikeLion\inventory shooting game\bin\Debug\inventory shooting game.exe
+D:\Like Lion\LikeLion\inventory shooting game\bin\Debug\inventory shooting game.pdb
+D:\Like Lion\LikeLion\inventory shooting game\obj\Debug\inventory shooting game.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\inventory shooting game\obj\Debug\inventory shooting game.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\inventory shooting game\obj\Debug\inventory shooting game.exe
+D:\Like Lion\LikeLion\inventory shooting game\obj\Debug\inventory shooting game.pdb

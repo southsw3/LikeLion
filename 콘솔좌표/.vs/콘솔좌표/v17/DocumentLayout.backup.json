@@ -13,12 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -27,7 +23,7 @@
               "RelativeDocumentMoniker": "..\\\uBAA8\uD5D8\uAC00 \uD0A4\uC6B0\uAE30\\Program.cs",
               "ToolTip": "D:\\Like Lion\\LikeLion\\\uBAA8\uD5D8\uAC00 \uD0A4\uC6B0\uAE30\\Program.cs",
               "RelativeToolTip": "..\\\uBAA8\uD5D8\uAC00 \uD0A4\uC6B0\uAE30\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:20:21.766Z",
               "EditorCaption": ""
