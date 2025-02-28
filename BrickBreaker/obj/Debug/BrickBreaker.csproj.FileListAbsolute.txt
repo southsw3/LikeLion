@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+D:\Like Lion\LikeLion\BrickBreaker\bin\Debug\BrickBreaker.exe
+D:\Like Lion\LikeLion\BrickBreaker\bin\Debug\BrickBreaker.pdb
+D:\Like Lion\LikeLion\BrickBreaker\obj\Debug\BrickBreaker.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\BrickBreaker\obj\Debug\BrickBreaker.exe
+D:\Like Lion\LikeLion\BrickBreaker\obj\Debug\BrickBreaker.pdb
