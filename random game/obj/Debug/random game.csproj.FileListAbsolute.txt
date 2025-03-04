@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\random game\bin\Debug\random game.exe.config
+D:\Like Lion\LikeLion\random game\bin\Debug\random game.exe
+D:\Like Lion\LikeLion\random game\bin\Debug\random game.pdb
+D:\Like Lion\LikeLion\random game\obj\Debug\random game.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\random game\obj\Debug\random game.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\random game\obj\Debug\random game.exe
+D:\Like Lion\LikeLion\random game\obj\Debug\random game.pdb

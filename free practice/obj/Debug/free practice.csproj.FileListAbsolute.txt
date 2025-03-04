@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\free practice\bin\Debug\free practice.exe.config
+D:\Like Lion\LikeLion\free practice\bin\Debug\free practice.exe
+D:\Like Lion\LikeLion\free practice\bin\Debug\free practice.pdb
+D:\Like Lion\LikeLion\free practice\obj\Debug\free practice.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\free practice\obj\Debug\free practice.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\free practice\obj\Debug\free practice.exe
+D:\Like Lion\LikeLion\free practice\obj\Debug\free practice.pdb
