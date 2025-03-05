@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\stduy34\bin\Debug\stduy34.exe.config
+D:\Like Lion\LikeLion\stduy34\bin\Debug\stduy34.exe
+D:\Like Lion\LikeLion\stduy34\bin\Debug\stduy34.pdb
+D:\Like Lion\LikeLion\stduy34\obj\Debug\stduy34.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\stduy34\obj\Debug\stduy34.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\stduy34\obj\Debug\stduy34.exe
+D:\Like Lion\LikeLion\stduy34\obj\Debug\stduy34.pdb

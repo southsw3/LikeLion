@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\ㄴ셔요30\bin\Debug\ㄴ셔요30.exe.config
+D:\Like Lion\LikeLion\ㄴ셔요30\bin\Debug\ㄴ셔요30.exe
+D:\Like Lion\LikeLion\ㄴ셔요30\bin\Debug\ㄴ셔요30.pdb
+D:\Like Lion\LikeLion\ㄴ셔요30\obj\Debug\ㄴ셔요30.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\ㄴ셔요30\obj\Debug\ㄴ셔요30.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\ㄴ셔요30\obj\Debug\ㄴ셔요30.exe
+D:\Like Lion\LikeLion\ㄴ셔요30\obj\Debug\ㄴ셔요30.pdb
