@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\football\bin\Debug\football.exe.config
+D:\Like Lion\LikeLion\football\bin\Debug\football.exe
+D:\Like Lion\LikeLion\football\bin\Debug\football.pdb
+D:\Like Lion\LikeLion\football\obj\Debug\football.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\football\obj\Debug\football.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\football\obj\Debug\football.exe
+D:\Like Lion\LikeLion\football\obj\Debug\football.pdb

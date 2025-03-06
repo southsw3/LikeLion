@@ -1,0 +1,2 @@
+D:\Like Lion\LikeLion\makeagain\obj\Debug\makeagain.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\makeagain\obj\Debug\makeagain.csproj.CoreCompileInputs.cache

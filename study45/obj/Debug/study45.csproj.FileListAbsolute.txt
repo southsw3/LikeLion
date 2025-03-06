@@ -1,0 +1,7 @@
+D:\Like Lion\LikeLion\study45\bin\Debug\study45.exe.config
+D:\Like Lion\LikeLion\study45\bin\Debug\study45.exe
+D:\Like Lion\LikeLion\study45\bin\Debug\study45.pdb
+D:\Like Lion\LikeLion\study45\obj\Debug\study45.csproj.AssemblyReference.cache
+D:\Like Lion\LikeLion\study45\obj\Debug\study45.csproj.CoreCompileInputs.cache
+D:\Like Lion\LikeLion\study45\obj\Debug\study45.exe
+D:\Like Lion\LikeLion\study45\obj\Debug\study45.pdb
